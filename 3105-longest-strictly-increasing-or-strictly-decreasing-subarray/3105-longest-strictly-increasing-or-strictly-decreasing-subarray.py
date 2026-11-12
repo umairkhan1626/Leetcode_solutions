@@ -2,7 +2,7 @@ class Solution(object):
     def longestMonotonicSubarray(self, nums):
         ci=1
         cd=1
-        a = 1
+        la = 1
         for i in range(len(nums)-1):
             if(nums[i]>nums[i+1]):
                 cd+=1
@@ -13,6 +13,6 @@ class Solution(object):
             else:
                 ci=1
                 cd=1
-            a = max(a,ci,cd)
-        return a
+            la = max(la,ci,cd)
+        return la
         
