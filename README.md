@@ -27,4 +27,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0260-single-number-iii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
