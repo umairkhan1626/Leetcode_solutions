@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
