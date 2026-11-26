@@ -8,7 +8,7 @@ public:
         double median;
         int s = v.size();
         if(s%2==0){
-            median = (v[s/2-1]+v[s/2])/2.00000;
+            median = (v[s/2-1]+v[s/2])/2.0;
         }
         else{
             median = v[s/2];
