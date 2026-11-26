@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0260-single-number-iii](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
