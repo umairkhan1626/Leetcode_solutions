@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -71,4 +72,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0226-invert-binary-tree/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
