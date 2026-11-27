@@ -12,7 +12,6 @@ public:
                 v.push_back(nums[i]);
             }
         }
-        return v;
-
+        return v;                          // tc - o(n) - can also be done by two pointers using swap
     }
 };
