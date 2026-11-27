@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
