@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0088-merge-sorted-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0260-single-number-iii](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -112,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/umairkhan1626/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
