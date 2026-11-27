@@ -15,7 +15,7 @@ public:
         //         break;
         //     }
         // }
-        // return ans;
+        // return ans;                                     // time complexity - o(n^2)
 
         int total=0,left=0;
         for(int i=0; i<nums.size(); i++){
@@ -28,6 +28,6 @@ public:
             }
             left+=nums[i];
         }
-        return -1;
+        return -1;                                       // time complexity - o(n)
     }
 };
